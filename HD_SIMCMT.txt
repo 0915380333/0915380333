@@ -1,0 +1,6 @@
+B1: Tạo 1 nick mới hoặc dùng nick phụ nào đó để làm con Bot simsimi
+B2: Vào trang phuongbach.com > vào mục Get Access_Token để lấy token ( Token For iPhone hoặc Token For Android Đều Ok)
+Lưu ý ở đây là lấy token của nick phụ dùng làm simsimi kia nha
+B3: Sau khi lấy đx token thì dán token vào file sim.php > lấy id trang cá nhân cho con sim vào cmt dán vào lun
+B4 Chạy thử & Set cronjob cho file sim.php, cron càng nhanh thì sim cmt càng nhanh nhá.
+B5 Hưởng thành quả thôi.. hehe..
